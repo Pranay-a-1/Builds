@@ -13,8 +13,9 @@ const Banner = () => {
       setMovie(
         request.data.results[
         Math.floor(Math.random() * request.data.results.length - 1)
-        ]
+        ] 
       );
+      console.log('hi'+ request);
       return request;
     }
   fetchData();
