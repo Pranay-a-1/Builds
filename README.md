@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Pranay-a-1/Netflix-Clone-Firebase-Stripe-React">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="./netflix reactjs/netflix-build/public/assets/images/netflix-logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Netflix Clone</h3>
@@ -64,35 +64,44 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](./images/netflix-ss.jpeg)
+<!-- [![Product Name Screen Shot][product-screenshot]]("./images/netflix-ss.jpeg") -->
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+<div align="center">
+  <a href="https://github.com/Pranay-a-1/Netflix-Clone-Firebase-Stripe-React">
+    <img src="./images/netflix-ss.jpeg" alt="Logo" >
+  </a>
+</div>
+
+<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description` -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
-- [![Next][next.js]][next-url]
+<!-- - [![Next][next.js]][next-url] -->
+
 - [![React][react.js]][react-url]
-- [![Vue][vue.js]][vue-url]
-- [![Angular][angular.io]][angular-url]
-- [![Svelte][svelte.dev]][svelte-url]
-- [![Laravel][laravel.com]][laravel-url]
-- [![Bootstrap][bootstrap.com]][bootstrap-url]
-- [![JQuery][jquery.com]][jquery-url]
+- ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+- Stripe
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Demo Website URL
+
+```
+https://netflix-clone-1cee1.firebaseapp.com/
+```
 
 <!-- GETTING STARTED -->
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+<!-- This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps. -->
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+<!-- This is an example of how to list things you need to use the software and how to install them. -->
 
 - npm
   ```sh
@@ -101,18 +110,19 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+<!-- 1. Get a free API Key at [https://example.com](https://example.com) -->
+
+1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Pranay-a-1/Netflix-Clone-Firebase-Stripe-React
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
+3. Run the project
+   ```sh
+   npm run
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -121,7 +131,13 @@ This is an example of how to list things you need to use the software and how to
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+How to subscribe to a plan -
+
+<div align="center">
+  <a href="https://github.com/Pranay-a-1/Netflix-Clone-Firebase-Stripe-React">
+    <img src="./images/netflix-gif.gif" alt="Logo" >
+  </a>
+</div>
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -131,37 +147,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-  - [ ] Nested Feature
+- [x] Sign In / Sign UP (Firebase)
+- [x] Subscription Plans (Stripe)
+- [x] HomePage(React)
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+<!-- See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues). -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,19 +159,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Pranay A - pranay_a@outlook.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-- []()
-- []()
-- []()
+Project Link: [https://github.com/Pranay-a-1/Netflix-Clone-Firebase-Stripe-React](https://github.com/Pranay-a-1/Netflix-Clone-Firebase-Stripe-React)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
